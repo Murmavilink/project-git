@@ -1,1 +1,1 @@
-console.log('дз выполнено!');
+console.log('HEllo world!');
